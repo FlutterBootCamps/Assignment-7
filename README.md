@@ -1,12 +1,21 @@
 # Assignment-7
-In this assignment, you will work as a group to create a simple app using API that contains cubit to update the state 
+## team members 
+- Saad Alharbi
+- Abdulwahab alaql
+- Mohammed alzahrani
+- Sultan alotibi
+
+in this assigment we use Cubit to display image form api
 
 
-## Submission:
-Each group has to work together and submit the assignment through one account
+# Display Screen:
 
-### [API link](https://foodish-api.com)
+<img src="https://github.com/mohammed0172000/Assignment-7/assets/82112256/5909cb68-1d89-4e34-b303-a4ffc4f23c0f" alt="team-hw-1"  height="600">
 
-## Deadline:
-19-Mar-2024, 10:29 AM
+# Loading to get image From API:
 
+<img src="https://github.com/mohammed0172000/Assignment-7/assets/82112256/ba59f538-180b-44b6-a651-18177d18d88f" alt="team-hw-2" height="600">
+
+# Show image From API:
+
+<img src="https://github.com/mohammed0172000/Assignment-7/assets/82112256/249f300f-75f4-4cf4-9d01-8ad10f56e0be" alt="team-hw-3"  height="600">
