@@ -1,5 +1,11 @@
 # Assignment-7
 
+## اعضاء الفريق :
+  * شيماء الثبيتي
+  * مرام الحارثي
+  * سعود القرشي  
+  * خالد الغامدس 
+
 ## app that present random food photo:
 
 log in and signUp with supabase:
