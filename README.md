@@ -15,7 +15,7 @@ log in and signUp with supabase:
 
 <img width="329" alt="Screenshot 1445-09-08 at 9 51 30 AM" src="https://github.com/shaimaathu/Assignment-6/assets/123784913/92f06697-73ad-420b-8f95-a107f3759bdd">
 
-#
+
 
 
 <img width="339" alt="Screenshot 1445-09-08 at 9 52 28 AM" src="https://github.com/shaimaathu/Assignment-6/assets/123784913/ee83a90f-6a78-4d7a-a222-ff9666b19536">
