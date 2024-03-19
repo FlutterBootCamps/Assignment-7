@@ -2,7 +2,7 @@
 
 ## app that present random food photo:
 
-##log in and signUp with supabase:
+log in and signUp with supabase:
 
 
 <img width="335" alt="Screenshot 1445-09-08 at 10 07 47 AM" src="https://github.com/shaimaathu/Assignment-6/assets/123784913/1138b180-0bc3-470b-b3d2-be19e1a76ad1">
